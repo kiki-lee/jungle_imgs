@@ -3,11 +3,6 @@ namespace myImages {
 
     helpers._registerFactory("image", function(name: string) {
         switch(helpers.stringTrim(name)) {
-            case "image2":
-            case "blank":return img`
-. . 
-. . 
-`;
             case "~tCkp}guiNO?uzgacRl(":
             case "background":return img`
 5555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555
