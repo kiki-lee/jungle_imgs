@@ -1,0 +1,37 @@
+{
+    "name": "jungle_imgs",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll/",
+        "pxt-tilemaps": "github:microsoft/pxt-tilemaps/",
+        "simple-blocks": "github:microsoft/arcade-tutorial-extensions/simple-blocks/"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts",
+        "pxt.json",
+        "_history"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.13.57",
+        "tag": "v1.13.57",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/08c6d84743d809303050e56527ee67f51a7864f4",
+        "target": "1.12.47",
+        "pxt": "9.3.14",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
